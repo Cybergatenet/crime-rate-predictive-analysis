@@ -1,0 +1,14 @@
+matplotlib
+Flask-MySQLdb
+email_validator
+
+Flask
+Flask
+flask
+Flask
+passlib
+numpy
+scipy
+scikit
+
+
